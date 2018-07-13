@@ -1,0 +1,9 @@
+[package]
+name = "doctest"
+version = "0.0.0"
+publish = false
+
+[dependencies]
+pulldown-cmark = "0.1.2"
+walkdir = "2.1"
+failure = "0.1.1"
