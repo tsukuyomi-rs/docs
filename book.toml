@@ -1,0 +1,5 @@
+[book]
+authors = ["Yusuke Sasaki"]
+multilingual = false
+src = "src"
+title = "Tsukuyomi User Guide"

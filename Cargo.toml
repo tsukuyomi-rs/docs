@@ -1,7 +1,0 @@
-[workspace]
-members = [
-  # "doctests/getting-started",
-]
-
-[patch.crates-io]
-tsukuyomi = { git = "https://github.com/tsukuyomi-rs/tsukuyomi.git", branch = "master" }
